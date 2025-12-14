@@ -57,7 +57,7 @@ Evaluation Metrics Used:
 All prediction graphs are included under the `plots/` directory, showing results for:
 
 - **AQ** – Air Quality  
-- **SL** – Soil Level  
+- **SL** – Solar light 
 - **WF** – Water Flow  
 Each parameter has 3 plots (one for each regression model).
 
