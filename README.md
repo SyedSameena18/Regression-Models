@@ -88,6 +88,3 @@ A detailed analysis with methodology, code explanation, comparisons, and conclus
 CSE (AIDS) – B.Tech  
 Software Task-1 (SW) submission  
 IIIT Hyderabad – ACE
-
-## ⭐ Feedback  
-If this project helps you, please star the repository.
