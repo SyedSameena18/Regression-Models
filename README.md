@@ -64,7 +64,7 @@ Each parameter has 3 plots (one for each regression model).
 ## How to Run
 ### Install required libraries:
 ```bash
-pip install numpy pandas scikit-learn xgboost matplotlib
+pip install -r requirements.txt
 ```
 ### Execute ML script:
 ```bash
