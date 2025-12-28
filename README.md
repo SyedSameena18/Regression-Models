@@ -74,8 +74,9 @@ This will:
 - Load the dataset  
 - Train all three models  
 - Print evaluation metrics  
-- Generate prediction graphs  
-##  Dataset Description
+- Generate prediction graphs
+  
+##  Dataset 
 The dataset contains IoT readings with sensor-mapped values.  
 Files included:
 - `iot_dataset.csv`
